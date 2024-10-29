@@ -1,0 +1,23 @@
+.services{
+
+    text-align: center;
+}
+
+.service{
+    float: left;
+    width: 300px;
+    height: 300px;
+    text-align: center;
+
+
+}
+
+.clearfix{
+    clear: both;
+}
+
+i{
+    background-color: gold;
+    
+ 
+}
